@@ -15,3 +15,5 @@ while i < frequency_shifting.length
   i+=1
   i=0 if i == frequency_shifting.length
 end
+
+# Answer was 312
